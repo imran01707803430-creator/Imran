@@ -1,0 +1,10 @@
+{
+  "bullish_hammer": {
+    "description": "Strong bullish reversal pattern",
+    "signal": "CALL"
+  },
+  "bearish_shooting_star": {
+    "description": "Strong bearish reversal pattern",
+    "signal": "PUT"
+  }
+}
